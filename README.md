@@ -1,6 +1,6 @@
 # TABS-COMPONENTS
 
-Topics:
+Topics to Practice:
 
 * Constructors with ES6 class syntax
 
